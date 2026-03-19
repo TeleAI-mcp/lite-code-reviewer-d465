@@ -1,2 +1,3 @@
-# lite-code-reviewer-d465
-Automated issue comment bot repository
+# Lite Code Reviewer D465
+
+Automated issue comment bot repository.
